@@ -1,0 +1,97 @@
+﻿@model PracticalTest.ViewModels.UserViewModel
+@{
+    ViewBag.Title = "DealerDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-xs-12 col-sm-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h5 class="card-title">User Details</h5>
+                    </div>
+                    <div class="card-body">
+                        @Html.Partial("_UserDetails", Model)
+                    </div>
+                    <div class="card-footer">
+                        <button class="btn btn-primary" data-toggle="modal" data-target="#divadduser">
+                            Create User
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        function ActionUser() {
+            var getUserID = $("#hdnUserID").val();
+
+            var Url = '@Url.Action("AddUser", "Users")';
+
+            if (getUserID > 0) {
+
+                Url = '@Url.Action("UpdateUser", "Users")';
+            }
+
+            $.ajax({
+                url: Url,
+                type: 'POST',
+                cache: false,
+                data: $('#frmUser').serialize(),
+                success: function (result) {
+                    if (result != null) {
+                        if (result == "SUCCESS") {
+                            $("#closPoup").click();
+                            $("#btnSucessPopup").click();
+                            $("#mdlHeader").text("Add");
+                            $("#lblSuccessMsg").text("Create Successfully");
+
+                        }
+                        else if (result == "U") {
+                            $("#closPoup").click();
+                            $("#btnSucessPopup").click();
+                            $("#mdlHeader").text("Update");
+                            $("#lblSuccessMsg").text("Update Successfully");
+
+                        }
+                        location.reload(true);
+                    }
+
+                }
+            });
+        };
+
+        function EditUser(ID) {
+            console.log("ID: " + ID);
+            $.ajax({
+                url: '@Url.Action("EditUser", "Users")',
+                type: 'POST',
+                cache: false,
+                data: 'ID=' + ID + '',
+                beforeSend: function(xhr) {
+                    xhr.setRequestHeader('Cache-Control', 'no-cache');
+                },
+                success: function (result) {
+                    if (result != null) {
+                        $("#btnpoupadduserdeal").click();
+                        $("#hdnUserID").val(ID);
+                        $("#divUserdata").empty();
+                        $("#divUserdata").html(result);
+                        $("#btnAddUser").val('Update');
+                        $("#lblHeaderMessage").text("EditUser");
+                    }
+                },
+                error: function (xhr, status, error) {
+                    console.error(xhr.responseText);
+                }
+            });
+        }
+    </script>
+</body>
+</html>

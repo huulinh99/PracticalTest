@@ -1,0 +1,24 @@
+﻿@model PracticalTest.ViewModels.UserViewModel
+@{
+    ViewBag.Title = "DealerDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div id="divDealerCommGridDetails">
+    @Html.Partial("_UserGridDetails", Model)
+</div>
+
+
+<div class="modal fade bs-modal-lg" id="divadduser" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true" id="closPoup"></button>
+                <h4 class="modal-title" id="lblHeaderMessage">Create User</h4>
+            </div>
+            <div id="divUserdata">
+                @Html.Partial("_AddUserDetails", Model)
+            </div>
+        </div>
+    </div>
+</div>
+<button type="button" id="btnpoupadduserdeal" data-toggle="modal" data-target="#divadduser" aria-hidden="true" style="display:none"></button>

@@ -1,0 +1,601 @@
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\obj\Debug\PracticalTest.csproj.AssemblyReference.cache
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\obj\Debug\PracticalTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\obj\Debug\PracticalTest.csproj.CoreCompileInputs.cache
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\PracticalTest.dll.config
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\PracticalTest.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\PracticalTest.pdb
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\csc.exe
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\csc.exe.config
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\csc.rsp
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\csi.exe
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\csi.exe.config
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\csi.rsp
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\System.Buffers.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\System.Memory.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\vbc.exe
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\vbc.exe.config
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\vbc.rsp
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Antlr3.Runtime.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\EntityFramework.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\EntityFramework.SqlServer.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\GridMvc.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Options.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Identity.Client.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Newtonsoft.Json.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Buffers.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Collections.Immutable.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.ComponentModel.Annotations.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Composition.AttributedModel.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Memory.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Numerics.Vectors.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Text.Encodings.Web.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Web.Helpers.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Web.Mvc.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Web.Optimization.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Web.Razor.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Web.WebPages.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Unity.Abstractions.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Unity.Container.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Unity.Mvc.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Unity.Mvc5.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\WebActivatorEx.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\WebGrease.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\EntityFramework.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\EntityFramework.SqlServer.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Data.SqlClient.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Options.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Identity.Client.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Newtonsoft.Json.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Buffers.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Collections.Immutable.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Composition.AttributedModel.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Memory.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Numerics.Vectors.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Text.Encodings.Web.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Web.Helpers.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Web.Mvc.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Web.Razor.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Web.WebPages.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\System.Web.Optimization.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Unity.Abstractions.pdb
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Unity.Container.pdb
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Unity.Mvc.pdb
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Unity.Mvc.xml
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\Antlr3.Runtime.pdb
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\obj\Debug\PracticalTest.csproj.CopyComplete
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\obj\Debug\PracticalTest.dll
+C:\Users\Linh Nguyen\Desktop\PracticalTest\PracticalTest\obj\Debug\PracticalTest.pdb
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\PracticalTest.dll.config
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\PracticalTest.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\PracticalTest.pdb
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\csc.exe
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\csc.exe.config
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\csc.rsp
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\csi.exe
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\csi.exe.config
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\csi.rsp
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\System.Buffers.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\System.Memory.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\vbc.exe
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\vbc.exe.config
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\vbc.rsp
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Antlr3.Runtime.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\EntityFramework.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\EntityFramework.SqlServer.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\GridMvc.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Data.SqlClient.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Logging.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Options.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Identity.Client.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Newtonsoft.Json.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Buffers.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Collections.Immutable.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.ComponentModel.Annotations.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Composition.AttributedModel.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Memory.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Numerics.Vectors.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Text.Encodings.Web.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.Helpers.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.Mvc.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.Optimization.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.Razor.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.WebPages.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Unity.Abstractions.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Unity.Container.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Unity.Mvc.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Unity.Mvc5.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\WebActivatorEx.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\WebGrease.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\EntityFramework.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\EntityFramework.SqlServer.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Data.SqlClient.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Logging.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Options.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Identity.Client.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Newtonsoft.Json.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Buffers.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Collections.Immutable.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Composition.AttributedModel.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Memory.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Numerics.Vectors.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Text.Encodings.Web.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.Helpers.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.Mvc.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.Razor.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.WebPages.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.Optimization.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Unity.Abstractions.pdb
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Unity.Container.pdb
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Unity.Mvc.pdb
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Unity.Mvc.xml
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\Antlr3.Runtime.pdb
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\obj\Debug\PracticalTest.csproj.AssemblyReference.cache
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\obj\Debug\PracticalTest.csproj.CoreCompileInputs.cache
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\obj\Debug\PracticalTest.csproj.CopyComplete
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\obj\Debug\PracticalTest.dll
+C:\Users\linh.nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\obj\Debug\PracticalTest.pdb
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\PracticalTest.dll.config
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\PracticalTest.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\PracticalTest.pdb
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\csc.exe
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\csc.exe.config
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\csc.rsp
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\csi.exe
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\csi.exe.config
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\csi.rsp
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\System.Buffers.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\System.Memory.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\vbc.exe
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\vbc.exe.config
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\vbc.rsp
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Antlr3.Runtime.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\EntityFramework.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\EntityFramework.SqlServer.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\GridMvc.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Options.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Identity.Client.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Newtonsoft.Json.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Serilog.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Buffers.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Collections.Immutable.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.ComponentModel.Annotations.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Composition.AttributedModel.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Memory.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Numerics.Vectors.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Text.Encodings.Web.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.Helpers.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.Mvc.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.Optimization.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.Razor.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.WebPages.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Unity.Abstractions.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Unity.Container.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Unity.Mvc.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Unity.Mvc5.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\WebActivatorEx.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\WebGrease.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\EntityFramework.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\EntityFramework.SqlServer.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Data.SqlClient.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Options.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Identity.Client.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Newtonsoft.Json.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Serilog.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Buffers.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Collections.Immutable.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Composition.AttributedModel.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Memory.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Numerics.Vectors.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Text.Encodings.Web.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.Helpers.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.Mvc.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.Razor.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.WebPages.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\System.Web.Optimization.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Unity.Abstractions.pdb
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Unity.Container.pdb
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Unity.Mvc.pdb
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Unity.Mvc.xml
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\Antlr3.Runtime.pdb
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\obj\Debug\PracticalTest.csproj.AssemblyReference.cache
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\obj\Debug\PracticalTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\obj\Debug\PracticalTest.csproj.CoreCompileInputs.cache
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\obj\Debug\PracticalTest.csproj.CopyComplete
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\obj\Debug\PracticalTest.dll
+C:\Users\Linh Nguyen\Downloads\PracticalTest\PracticalTest\PracticalTest\PracticalTest\obj\Debug\PracticalTest.pdb

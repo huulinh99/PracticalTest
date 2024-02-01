@@ -1,0 +1,92 @@
+﻿@using GridMvc.Html
+@model PracticalTest.ViewModels.UserViewModel
+@{
+    ViewBag.Title = "DealerDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Html.Grid(Model.UserList).Named("UserGrid").Columns(columns =>
+{
+
+columns.Add(o => o.SerialNumber)
+.Titled("Serial Number");
+
+columns.Add(o => o.Nric)
+    .Titled("Edit")
+    .Encoded(false)
+    .Sanitized(false)
+    .SetWidth(30)
+    .RenderValueAs(o => @<b>
+    <a href="javascript:void(0);" onclick='EditUser(&quot;@o.SerialNumber&quot;);'>@o.Nric</a>
+</b>);
+
+columns.Add(o => o.Name)
+.Titled("Name");
+
+columns.Add(o => o.Gender)
+.Titled("Gender");
+
+columns.Add(o => o.Age)
+.Titled("Age");
+
+columns.Add(o => o.AvailableDate)
+.Titled("AvailableDate");
+
+columns.Add(o => o.SubjectName)
+.Titled("SubjectName");
+
+}).Sortable().Filterable().WithMultipleFilters()
+
+
+@*<script>
+    window.onload = function () {
+        const metadata = @Html.Raw(Json.Encode(Model.Metadata));
+
+        const totalPages = metadata.TotalPages;
+        const currentPage = metadata.CurrentPage;
+        const hasNext = metadata.HasNext;
+        const hasPrevious = metadata.HasPrevious;
+        var baseActionUrl = '@Url.Action("GetDealerCommissionWithPaging", "Dealer")';
+
+        let paginationHTML = '<ul class="pagination">';
+        const maxVisiblePages = 3;
+
+        if (hasPrevious) {
+            const pageUrl = `${baseActionUrl}?pageNumber=${currentPage - 1}`;
+            paginationHTML += `<li><a href="${pageUrl}">Previous</a></li>`;
+        }
+
+        let startPage = Math.max(1, currentPage - maxVisiblePages);
+        let endPage = Math.min(totalPages, currentPage + maxVisiblePages);
+
+        if (startPage > 1) {
+            paginationHTML += '<li><a href="#">1</a></li>';
+            if (startPage > 2) {
+                paginationHTML += '<li><span>...</span></li>';
+            }
+        }
+
+        for (let i = startPage; i <= endPage; i++) {
+            const pageUrl = `${baseActionUrl}?pageNumber=${i}`;
+            const activeClass = i === currentPage ? 'class="active"' : '';
+            paginationHTML += `<li ${activeClass}><a href="${pageUrl}">${i}</a></li>`;
+        }
+
+        if (endPage < totalPages) {
+            if (endPage < totalPages - 1) {
+                paginationHTML += '<li><span>...</span></li>';
+            }
+            paginationHTML += `<li><a href="${baseActionUrl}?pageNumber=${totalPages}">${totalPages}</a></li>`;
+        }
+
+        if (hasNext) {
+            const pageUrl = `${baseActionUrl}?pageNumber=${currentPage + 1}`;
+            paginationHTML += `<li><a href="${pageUrl}">Next</a></li>`;
+        }
+
+        paginationHTML += '</ul>';
+        document.getElementById('pagination').innerHTML = paginationHTML;
+    };
+
+    </script>*@
+

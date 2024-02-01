@@ -1,0 +1,120 @@
+﻿@model PracticalTest.ViewModels.UserViewModel
+@{
+    ViewBag.Title = "DealerDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("AddUser", "User", FormMethod.Post, new { name = "frmUser", id = "frmUser", @style = "width:100%;" }))
+{
+    if (Model.Users.SerialNumber == null)
+    {
+        @Html.HiddenFor(model => model.Users.SerialNumber, new { @id = "hdnUserID", @Value = "0" })
+    }
+    else
+    {
+        @Html.HiddenFor(model => model.Users.SerialNumber, new { @id = "hdnUserID" })
+    }
+    <div class="modal-body">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label class="font-blue">Nric</label>
+                        @Html.TextBoxFor(model => model.Users.Nric, new { @class = "form-control Spaces", @id = "txtNric", @maxlength = "100" })
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label class="font-blue">Name</label>
+                        @Html.TextBoxFor(model => model.Users.Name, new { @class = "form-control Spaces", @id = "txtName", @maxlength = "100" })
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label class="font-blue">Gender</label>
+                        @Html.DropDownListFor(model => model.Users.Gender, new List<SelectListItem>
+                        {
+                            new SelectListItem { Text = "Male", Value = "true" },
+                            new SelectListItem { Text = "Female", Value = "false" }
+                        }, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.Users.Gender)
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label class="font-blue">Birthday</label>
+                        <div class="input-group date">
+                            @Html.TextBoxFor(model => model.Users.Birthday, "{0:yyyy-MM-dd}", new { @class = "form-control Spaces", @id = "txtBirthday", @maxlength = "10" })
+                            <span class="input-group-addon">
+                                <span class="glyphicon glyphicon-calendar"></span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label class="font-blue">AvailableDate</label>
+                        <div class="input-group date">
+                            @Html.TextBoxFor(model => model.Users.AvailableDate, "{0:yyyy-MM-dd}", new { @class = "form-control Spaces", @id = "txtAvailableDate", @maxlength = "10" })
+                            <span class="input-group-addon">
+                                <span class="glyphicon glyphicon-calendar"></span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label class="font-blue">Subject</label>
+                        @if (Model.SubjectList != null)
+                        {
+                            @Html.DropDownListFor(model => model.Users.SubjectId, new SelectList(Model.SubjectList.OrderBy(y => y.Text), "Value", "Text", Model.Users.SubjectId), "Select", new { @class = "form-control ddls", @id = "ddlDealers", @style = "width: 100%;" })
+                        }
+                        else
+                        {
+                            <select id='ddlDealers' class='form-control'>
+                                <option>Select</option>
+                            </select>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="clearfix"></div>
+
+    <div class="modal-footer">
+        @{
+            <input name="btnAddUser" id="btnAddUser" value="Create" type="button" onclick="return ActionUser();" class="btn green" />
+        }
+        &nbsp;&nbsp;
+        <input type="button" class="btn dark btn-outline" data-dismiss="modal" value="Cancel" id="btnCancelUser" />
+    </div>
+}
+
+@section scripts {
+    <script>
+        $(document).ready(function () {
+            $('#txtBirthday').datetimepicker({
+                format: 'YYYY-MM-DD',
+                showClear: true,
+            });
+
+            var today = new Date();
+            var formattedToday = today.getFullYear() + '-' + ('0' + (today.getMonth() + 1)).slice(-2) + '-' + ('0' + today.getDate()).slice(-2);
+            $('#txtBirthday').data("DateTimePicker").date(new Date(formattedToday));
+        });
+
+        $(document).ready(function () {
+            $('#txtAvailableDate').datetimepicker({
+                format: 'YYYY-MM-DD',
+                showClear: true,
+            });
+
+            var today = new Date();
+            var formattedToday = today.getFullYear() + '-' + ('0' + (today.getMonth() + 1)).slice(-2) + '-' + ('0' + today.getDate()).slice(-2);
+            $('#txtAvailableDate').data("DateTimePicker").date(new Date(formattedToday));
+        });
+
+    </script>
+}
